@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/frontend-react-router/static/css/main.45c76a48.css",
+    "main.js": "/frontend-react-router/static/js/main.c06058d8.js",
+    "static/media/computational_thinking.png": "/frontend-react-router/static/media/computational_thinking.89f7a25f083b58269ac2.png",
+    "static/media/step.png": "/frontend-react-router/static/media/step.2829ac8a87f10c8bdb6b.png",
+    "static/media/UML.png": "/frontend-react-router/static/media/UML.3467dce55549bc9934b4.png",
+    "static/media/pattern.jpg": "/frontend-react-router/static/media/pattern.7c00abb3ffbf0350b9f6.jpg",
+    "static/media/hcj.png": "/frontend-react-router/static/media/hcj.228ac8499123bf183b86.png",
+    "static/media/coding.png": "/frontend-react-router/static/media/coding.dff3246f86b372043fc1.png",
+    "static/media/ct.jpg": "/frontend-react-router/static/media/ct.580aed5a6bb41d1fa097.jpg",
+    "static/media/sequencediagram.jpg": "/frontend-react-router/static/media/sequencediagram.6b2647f9c30a4e6073ea.jpg",
+    "static/media/decomposition.jpg": "/frontend-react-router/static/media/decomposition.bf0ac56c72ddd10d0263.jpg",
+    "static/media/WCAG.jpeg": "/frontend-react-router/static/media/WCAG.ca6ef61742933a0c6c5b.jpeg",
+    "static/media/algorithm.jpeg": "/frontend-react-router/static/media/algorithm.41116e6408de30d3746f.jpeg",
+    "static/media/activitydiagram.png": "/frontend-react-router/static/media/activitydiagram.b42b1886878b4dbe3f74.png",
+    "static/media/principles.avif": "/frontend-react-router/static/media/principles.14c4a42eb0aa4f1c63cf.avif",
+    "static/media/requirements.jpg": "/frontend-react-router/static/media/requirements.e4d4b1f07f4fcbb6be93.jpg",
+    "static/media/trend.jpeg": "/frontend-react-router/static/media/trend.11467bf9add2f39331db.jpeg",
+    "static/media/abstraction.jpg": "/frontend-react-router/static/media/abstraction.e0d68b6efab65dc20b05.jpg",
+    "static/media/concept.jpeg": "/frontend-react-router/static/media/concept.3bf0e0ec5f1ecf0dea78.jpeg",
+    "static/media/classdiagram.jpg": "/frontend-react-router/static/media/classdiagram.39b26513f6c0538e5aec.jpg",
+    "static/media/usecasediagram.png": "/frontend-react-router/static/media/usecasediagram.2dbbfb9b8fcaba8dcdbe.png",
+    "static/media/example.jpg": "/frontend-react-router/static/media/example.588b903104d5447f344b.jpg",
+    "static/media/web_development.jpg": "/frontend-react-router/static/media/web_development.54c40787d51645b554b8.jpg",
+    "static/media/componentdiagram.png": "/frontend-react-router/static/media/componentdiagram.2440caaedb76995fe64e.png",
+    "static/media/conclusion.jpg": "/frontend-react-router/static/media/conclusion.a4cc528e49a7fa4e4597.jpg",
+    "static/media/icon.png": "/frontend-react-router/static/media/icon.ffa3e0dd754dc923e50b.png",
+    "static/media/uml_bg.jpg": "/frontend-react-router/static/media/uml_bg.d4bf46fb27fdc46291fc.jpg",
+    "static/media/statediagram.png": "/frontend-react-router/static/media/statediagram.a0d2cce95e1b76e28c3e.png",
+    "index.html": "/frontend-react-router/index.html",
+    "main.45c76a48.css.map": "/frontend-react-router/static/css/main.45c76a48.css.map",
+    "main.c06058d8.js.map": "/frontend-react-router/static/js/main.c06058d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45c76a48.css",
+    "static/js/main.c06058d8.js"
+  ]
+}
