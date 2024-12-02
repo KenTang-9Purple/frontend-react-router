@@ -534,6 +534,15 @@ Hero section1
 .hero.uml{
     background: linear-gradient(var(--clr-primary-6), rgba(0, 0, 0, 0.2)), url("./images/uml_bg.jpg") center/cover no-repeat;
 }
+.hero.sword{
+    background: linear-gradient(var(--clr-primary-6), rgba(0, 0, 0, 0.2)), url("./images/csshtmljavascript.png") center/cover no-repeat;
+}
+
+.hero.step{
+    background: linear-gradient(var(--clr-primary-6), rgba(0, 0, 0, 0.2)), url("./images/steps.jpg") center/cover no-repeat;
+}
+
+
 
 .hero-banner {
     width: 100%;
