@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/frontend-react-router/static/css/main.45c76a48.css",
-    "main.js": "/frontend-react-router/static/js/main.35f56e5f.js",
+    "main.js": "/frontend-react-router/static/js/main.e7f3e1ce.js",
     "static/media/computational_thinking.png": "/frontend-react-router/static/media/computational_thinking.89f7a25f083b58269ac2.png",
     "static/media/step.png": "/frontend-react-router/static/media/step.2829ac8a87f10c8bdb6b.png",
     "static/media/UML.png": "/frontend-react-router/static/media/UML.3467dce55549bc9934b4.png",
@@ -11,7 +11,10 @@
     "static/media/ct.jpg": "/frontend-react-router/static/media/ct.580aed5a6bb41d1fa097.jpg",
     "static/media/sequencediagram.jpg": "/frontend-react-router/static/media/sequencediagram.6b2647f9c30a4e6073ea.jpg",
     "static/media/decomposition.jpg": "/frontend-react-router/static/media/decomposition.bf0ac56c72ddd10d0263.jpg",
+    "static/media/csshtmljavascript.png": "/frontend-react-router/static/media/csshtmljavascript.41012213e83623fe6977.png",
+    "static/media/visualdesign.jpg": "/frontend-react-router/static/media/visualdesign.be81b7669adb01f977cf.jpg",
     "static/media/WCAG.jpeg": "/frontend-react-router/static/media/WCAG.ca6ef61742933a0c6c5b.jpeg",
+    "static/media/deployment.webp": "/frontend-react-router/static/media/deployment.63f07241a23a29634ab7.webp",
     "static/media/algorithm.jpeg": "/frontend-react-router/static/media/algorithm.41116e6408de30d3746f.jpeg",
     "static/media/activitydiagram.png": "/frontend-react-router/static/media/activitydiagram.b42b1886878b4dbe3f74.png",
     "static/media/principles.avif": "/frontend-react-router/static/media/principles.14c4a42eb0aa4f1c63cf.avif",
@@ -20,20 +23,25 @@
     "static/media/abstraction.jpg": "/frontend-react-router/static/media/abstraction.e0d68b6efab65dc20b05.jpg",
     "static/media/concept.jpeg": "/frontend-react-router/static/media/concept.3bf0e0ec5f1ecf0dea78.jpeg",
     "static/media/classdiagram.jpg": "/frontend-react-router/static/media/classdiagram.39b26513f6c0538e5aec.jpg",
+    "static/media/testing.jpg": "/frontend-react-router/static/media/testing.b6262c0560c77d319995.jpg",
     "static/media/usecasediagram.png": "/frontend-react-router/static/media/usecasediagram.2dbbfb9b8fcaba8dcdbe.png",
     "static/media/example.jpg": "/frontend-react-router/static/media/example.588b903104d5447f344b.jpg",
+    "static/media/frontend.jpg": "/frontend-react-router/static/media/frontend.ec8d9d74cc8fb80e10df.jpg",
+    "static/media/ux.jpg": "/frontend-react-router/static/media/ux.6768e46ec4f83b90231a.jpg",
+    "static/media/content.webp": "/frontend-react-router/static/media/content.ca330ef106880533b427.webp",
     "static/media/web_development.jpg": "/frontend-react-router/static/media/web_development.54c40787d51645b554b8.jpg",
     "static/media/componentdiagram.png": "/frontend-react-router/static/media/componentdiagram.2440caaedb76995fe64e.png",
     "static/media/conclusion.jpg": "/frontend-react-router/static/media/conclusion.a4cc528e49a7fa4e4597.jpg",
     "static/media/icon.png": "/frontend-react-router/static/media/icon.ffa3e0dd754dc923e50b.png",
+    "static/media/backend.webp": "/frontend-react-router/static/media/backend.bc870f392e19cc80f962.webp",
     "static/media/uml_bg.jpg": "/frontend-react-router/static/media/uml_bg.d4bf46fb27fdc46291fc.jpg",
     "static/media/statediagram.png": "/frontend-react-router/static/media/statediagram.a0d2cce95e1b76e28c3e.png",
     "index.html": "/frontend-react-router/index.html",
     "main.45c76a48.css.map": "/frontend-react-router/static/css/main.45c76a48.css.map",
-    "main.35f56e5f.js.map": "/frontend-react-router/static/js/main.35f56e5f.js.map"
+    "main.e7f3e1ce.js.map": "/frontend-react-router/static/js/main.e7f3e1ce.js.map"
   },
   "entrypoints": [
     "static/css/main.45c76a48.css",
-    "static/js/main.35f56e5f.js"
+    "static/js/main.e7f3e1ce.js"
   ]
 }
