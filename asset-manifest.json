@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/frontend-react-router/static/css/main.45c76a48.css",
+    "main.css": "/frontend-react-router/static/css/main.528b451d.css",
     "main.js": "/frontend-react-router/static/js/main.e7f3e1ce.js",
     "static/media/computational_thinking.png": "/frontend-react-router/static/media/computational_thinking.89f7a25f083b58269ac2.png",
     "static/media/step.png": "/frontend-react-router/static/media/step.2829ac8a87f10c8bdb6b.png",
@@ -19,6 +19,7 @@
     "static/media/activitydiagram.png": "/frontend-react-router/static/media/activitydiagram.b42b1886878b4dbe3f74.png",
     "static/media/principles.avif": "/frontend-react-router/static/media/principles.14c4a42eb0aa4f1c63cf.avif",
     "static/media/requirements.jpg": "/frontend-react-router/static/media/requirements.e4d4b1f07f4fcbb6be93.jpg",
+    "static/media/steps.jpg": "/frontend-react-router/static/media/steps.644381ee07122a1ae131.jpg",
     "static/media/trend.jpeg": "/frontend-react-router/static/media/trend.11467bf9add2f39331db.jpeg",
     "static/media/abstraction.jpg": "/frontend-react-router/static/media/abstraction.e0d68b6efab65dc20b05.jpg",
     "static/media/concept.jpeg": "/frontend-react-router/static/media/concept.3bf0e0ec5f1ecf0dea78.jpeg",
@@ -37,11 +38,11 @@
     "static/media/uml_bg.jpg": "/frontend-react-router/static/media/uml_bg.d4bf46fb27fdc46291fc.jpg",
     "static/media/statediagram.png": "/frontend-react-router/static/media/statediagram.a0d2cce95e1b76e28c3e.png",
     "index.html": "/frontend-react-router/index.html",
-    "main.45c76a48.css.map": "/frontend-react-router/static/css/main.45c76a48.css.map",
+    "main.528b451d.css.map": "/frontend-react-router/static/css/main.528b451d.css.map",
     "main.e7f3e1ce.js.map": "/frontend-react-router/static/js/main.e7f3e1ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.45c76a48.css",
+    "static/css/main.528b451d.css",
     "static/js/main.e7f3e1ce.js"
   ]
 }
