@@ -21,7 +21,14 @@ import conceptImg from '../images/concept.jpeg'
 import wcagImg from '../images/WCAG.jpeg'
 import trendImg from '../images/trend.jpeg'
 import principlesImg from '../images/principles.avif'
-
+import csshtmljavascriptImg from '../images/csshtmljavascript.png'
+import uxImg from '../images/ux.jpg'
+import visualDesignImg from '../images/visualdesign.jpg'
+import frontendImg from '../images/frontend.jpg'
+import backendImg from '../images/backend.webp'
+import contentImg from '../images/content.webp'
+import testingImg from '../images/testing.jpg'
+import deploymentImg from '../images/deployment.webp'
 
 export const pageLinks=[
     {href:"./", text:"首頁"},
@@ -151,36 +158,36 @@ export const infos=[
             {h3:"客戶會議:",p:"與客戶進行面對面會議,了解他們的業務、目標、目標受眾和期望的網站功能。"},
             {h3:"需求文檔:",p:"基於會議結果,撰寫詳細的需求文檔,涵蓋項目範圍、目標、功能要求等。"}
         ]},
-        {t:"2. ", st:"資訊架構與用戶體驗設計 (Information Architecture and UX Design)",image:useCaseDiagram,d:[
+        {t:"2. ", st:"資訊架構與用戶體驗設計 (Information Architecture and UX Design)",image:uxImg,d:[
             {h3:"創建網站藍圖:",p:"繪製網站結構藍圖,確定頁面和內容的層次結構。"},
             {h3:"用戶旅程地圖:",p:"設計用戶旅程地圖以視覺化潛在用戶如何與網站互動。"},
             {h3:"原型設計:",p:"使用工具如 Sketch 或 Adobe XD 構建用戶界面的低保真原型。"}
         ]},
-        {t:"3. ", st:"視覺設計 (Visual Design)",image:classDiagram,d:[
+        {t:"3. ", st:"視覺設計 (Visual Design)",image:visualDesignImg,d:[
             {h3:"風格指南:",p:"開發一套視覺風格指南,包括顏色、字體、圖像風格等。"},
             {h3:"高保真設計",p:"根據原型和風格指南,創建高保真的設計稿。"}
         ]},
-        {t:"4. ", st:" 前端開發(Front-End Development)",image:classDiagram,d:[
+        {t:"4. ", st:" 前端開發(Front-End Development)",image:frontendImg,d:[
             {h3:"HTML/CSS/JavaScript 編碼:",p:"將設計稿轉換為 HTML, CSS 和JavaScript 代碼。"},
             {h3:"響應式設計:",p:"以“用戶結賬”為例,序列圖可以展示從用戶點擊“結賬”按鈕開始,到訂單生成、支付處理和確認的整個過程。 這樣可以清楚地看出各個對象(如用戶、購物車、支付網關和訂單系統)之間的消息傳遞和方法調用順序。"},
             {h3:"前端框架:",p:"可能會使用如 React 或 Vue.js 這樣的前端框架來增強用戶體驗。"}
         ]},
-        {t:"5. ", st:"後端開發(Back-End Development)",image:classDiagram,d:[
+        {t:"5. ", st:"後端開發(Back-End Development)",image:backendImg,d:[
             {h3:"服務器、數據庫和API:",p:"設置服務器,配置數據庫並實現必要的API。"},
             {h3:"服務器端語言:",p:"使用如 Python(Django), Ruby on Rails 或PHP (Laravel)這類服務器端語言進行開發。"}
         
         ]},
-        {t:"6. ", st:"內容創作(Content Creation)",image:classDiagram,d:[
+        {t:"6. ", st:"內容創作(Content Creation)",image:contentImg,d:[
             {h3:"內容策略:",p:"確定必要的內容類型,如文字、圖像、视频等。"},
             {h3:"SEO優化:",p:"優化內容以提高搜索引擎可見性。"},
             {h3:"內容審核與批准:",p:"確保所有上線內容符合品牌指南和質量標準。"}
         ]},
-        {t:"7. ", st:"測試與評估 (Testing and Review)",image:classDiagram,d:[
+        {t:"7. ", st:"測試與評估 (Testing and Review)",image:testingImg,d:[
             {h3:"功能測試:",p:"檢查所有功能是否按預期運作。"},
             {h3:"跨瀏覽器兼容性測試:",p:"確保網站能在主要瀏覽器中正常運作。"},
             {h3:"使用性測試:",p:"邀請實際用戶進行測試,收集反饋並根據需要進行調整。"}
         ]},
-        {t:"8. ", st:"部署和上線",image:classDiagram,d:[
+        {t:"8. ", st:"部署和上線",image:deploymentImg,d:[
             {h3:"服務器部署",p:"在生產環境中部署網站。"},
             {h3:"域名設置",p:"配置域名和DNS設置。"},
             {h3:"監控與優化",p:"上線後持續監控網站性能,根據流量和用戶反饋進行優化。"}
@@ -197,7 +204,7 @@ export const infos=[
             {h3:"1.1. 前端開發的定義及其重要性",p:"前端開發指的是創建和優化網站及網頁應用的客戶端部分的過程。它包括界面佈局,互動設計、視覺呈現等方面,好的前端開發不僅可提升用戶體驗,還可以促進用戶與網站的有效互動。"},
             {h3:"1.2. 前端與後端的區別",p:"前端開發通常指的是網頁的前台部分,也就是用戶能夠看到和操作的部分。它主要關注用戶體驗和界面設計。 而後端開發則是指服務器端的工作,包括服務器,應用和數據庫的交互過程,確保前端可以獲取需要的數據。"},
         ]},
-        {t:"2. ", st:"前端開發的技術棧",image:conceptImg,d:[
+        {t:"2. ", st:"前端開發的技術棧",image:csshtmljavascriptImg,d:[
             {h3:"2.1. HTML(超文本標記語言)",p:"HTML 通過定義各種元素(如標題、段落、圖片和鏈接)來提供網頁的結構。它是網頁內容的基石,對於創建結構良好且易於訪問的網站至關重要。"},
             {h3:"2.2. CSS(層疊樣式表)",p:" CSS 用於控制 HTML 元素的呈現和布局。它使開發者能夠通過定義顏色、字體、問距和位置等屬 性來設計網頁。利用 CSS,開發者可以創建視覺上吸引人的設計和響應式布局,這些布局能夠適應不同的屏幕尺寸"},
             {h3:"2.3. JavaScript",p:"JavaScript 是一種動態編程語言,能夠在網頁上啟用互動元素。它允許開發者添加像表單驗證、 動畫和動態內容更新等功能。JavaScript 還有助於與服務器的通信、處理用戶輸入以及操作文件對象模型(DOM),以創建動態用戶界面。隨著技術的發展,出現了許多基於 JavaScript 的框架和庫,例如 React.Angular 10 Vue.js,這些工具大大提高了開發效率和應用性能。"},

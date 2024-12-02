@@ -16,7 +16,7 @@ export default function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Layout />}>
+        <Route path="/frontend-react-router/" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="computational" element={<Computational />} />
           <Route path="uml" element={<Uml />} />
