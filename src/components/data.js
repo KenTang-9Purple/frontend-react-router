@@ -35,7 +35,9 @@ export const pageLinks=[
     {href:"./computational", text:"計算思維"},
     {href:"./uml", text:"UML"},
     {href:"./step", text:"開發九步曲"},
-    {href:"./3sword", text:"前端三劍客"}
+    {href:"./3sword", text:"前端三劍客"},
+    {href:"https://kentang-9purple.github.io/frontend/", text:"非React SPA版"},
+    {href:"https://kentang-9purple.github.io/frontend-react/", text:"React SPA版"}
 
 ];
 
@@ -51,12 +53,11 @@ export const values=[
     {id:1,text:"工學",desc:"在網頁開發中，工學價值體現在對技術和系統的深入理解和應用。九紫科技注重工程技術的精湛和創新，確保網站的穩定性、效率和安全性。他們可能採用最新的開發工具和技術，並遵循最佳實踐來建構網站，從而確保用戶體驗和性能的最佳化。",icon:"fa-solid fa-gear"},
     {id:2,text:"美學",desc:"美學價值在網站開發中扮演著重要角色，九紫科技重視網站設計的美感和用戶友好性。他們可能通過視覺設計、用戶界面設計和內容呈現來提升網站的吸引力和易用性，從而為用戶帶來愉悅的瀏覽體驗。",icon:"fa-solid fa-gem"},
     {id:3,text:"計算思維",desc:"計算思維鼓勵將問題分解為更小的部分並找到解決方案的能力。在網站開發中，九紫科技可能運用計算思維來解決複雜的技術挑戰，優化代碼結構，提高系統效率，並開發創新性的功能和解決方案。這種思維方式有助於提高開發效率和網站的品質。",icon:"fa-solid fa-laptop"},
-    
 ];
 
 export const iconLinks=[
     {id:1,href:"https://www.facebook.com/9purple.tech/",icon:"fa-brands fa-facebook"},
-    {id:2,href:"https://wa.me/85265875282?text=你好，九紫科技，我想查詢服務的",icon:"fa-brands fa-whatsapp"},
+    {id:2,href:"https://wa.me/85265875282?text=你好，九紫科技",icon:"fa-brands fa-whatsapp"},
     {id:3,href:"https://www.threads.net/@9purple.tech",icon:"fa-brands fa-threads"},
     {id:4,href:"https://www.instagram.com/9purple.tech",icon:"fa-brands fa-instagram"},
     {id:5,href:"https://github.com/KenTang-9Purple",icon:"fa-brands fa-github"}
@@ -219,10 +220,10 @@ export const infos=[
         {t:"(WCAG) ", st:"網頁內容無障礙指南",image:wcagImg,d:[
             {h3:"這是一套由世界廣域網聯盟(W3C)開發的指南和標準,旨在確保網頁內容對殘疾人士是可訪問的。WCAG (Web Content Accessibility Guidelines) 提供了一系列 議,以便網頁內容對包括視覺、聽覺、身體、言語、認知、語言、學習和神經系統障礙等各種殘疾的用戶更易於察覺,操作、理解和使用。"},
             {h3:"1. 可察覺:",p:"優信息和用戶介面組件必須以用戶能察覺的方式呈現,無論他們有何種接成,通包店為非文字內 容提供文字替代品,確保內容具有適應性,並使其更容易看見和聽見。"},
-            {h3:"2. 可操作:",p:"用戶介面組件和導航必須是可操作的,用戶應該能夠使用各種輸入方法(例如鍵盤成語音命 今)與網站互動,互動元素應有足夠的時間可以使用,並且導航機制應预测性强且一致。"},
+            {h3:"2. 可操作:",p:"用戶介面組件和導航必須是可操作的,用戶應該能夠使用各種輸入方法(例如鍵盤成語音命令)與網站互動,互動元素應有足夠的時間可以使用,並且導航機制應预测性强且一致。"},
             {h3:"3. 可理解:",p:"內容應該以易於理解的方式呈現,用戶應該能夠理解用戶介面的信息和操作方式。這一原則包 括確保內容可讀目预测性强,並幫助用戶避免和糾正錯誤。"},
             {h3:"4. 可靠:",p:"內容必須足夠穩固,能夠有效地同當前和未来的技術配合使用,這意味著網站應與輔助技術兼 容,並能響應技術變化,"},
-            {p:"通過遵循 WCAG 中概述的指南,開發者可以創建更具包容性和可訪問性的網站和網絡應用,覆蓋更廣範圍的用 戶。遵守 WCAG 不僅有助於改善殘疾人使用者的用戶體驗,而且通過使內容更易用和更具吸引力,也使所有用 戶受益。鼓勵組織和開發者將 WCAG 原則整合到他們的設計和開發過程中,以創建一個更加可訪問的網絡環境。"}
+            {p:"通過遵循 WCAG 中概述的指南,開發者可以創建更具包容性和可訪問性的網站和網絡應用,覆蓋更廣範圍的用戶。遵守 WCAG 不僅有助於改善殘疾人使用者的用戶體驗,而且通過使內容更易用和更具吸引力,也使所有用 戶受益。鼓勵組織和開發者將 WCAG 原則整合到他們的設計和開發過程中,以創建一個更加可訪問的網絡環境。"}
         ]},
         {t:"4. ", st:"前端開發的趨勢和未來",image:trendImg,d:[
             {p:"隨著科技的進步和用戶期望的提升,前端開發持續面臨着變革,一些主要的趨勢包括:"},

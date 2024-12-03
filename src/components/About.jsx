@@ -13,7 +13,7 @@ function About({about}) {
         <article className="about-info">
             {
                 about.d.map((item,i) => 
-                    <AboutItem k={i} aboutItem={item}></AboutItem>)
+                    <AboutItem key={i} aboutItem={item}></AboutItem>)
             }
         </article>
     </div>

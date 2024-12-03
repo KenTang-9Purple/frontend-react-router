@@ -1,9 +1,9 @@
 import React from 'react'
 
-function AboutItem({aboutItem,k}) {
+function AboutItem({aboutItem}) {
   return <>
-    <h3 key={k*2}>{aboutItem.h3}</h3>
-    <p key={k*2+1}>{aboutItem.p}</p>
+    <h3>{aboutItem.h3}</h3>
+    <p>{aboutItem.p}</p>
   </>
 }
 
